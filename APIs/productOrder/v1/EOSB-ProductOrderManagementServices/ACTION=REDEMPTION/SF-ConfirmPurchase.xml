@@ -1,0 +1,14 @@
+<Service>
+<Path>ServicePlanSelectorSpringFarmServices</Path>
+<URI>/springfarm/service-plan-provisioning-web-services/services/servicePlanSelector</URI>
+<Brands>
+<TOTAL_WIRELESS>Y</TOTAL_WIRELESS>
+<SIMPLE_MOBILE>UN</SIMPLE_MOBILE>
+<STRAIGHT_TALK>UN</STRAIGHT_TALK>
+</Brands>
+<Channels>
+<WEB>Y</WEB>
+<APP>Y</APP>
+<UDP>Y<UDP>
+</Channels>
+</Service>

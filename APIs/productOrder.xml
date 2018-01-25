@@ -1,0 +1,14 @@
+<API>
+<URI>/produtOrder</URI>
+<Description>To Submit Orders</Description>
+<Brands>
+<TOTAL_WIRELESS>Y</TOTAL_WIRELESS>
+<SIMPLE_MOBILE>Y</SIMPLE_MOBILE>
+<STRAIGHT_TALK>Y</STRAIGHT_TALK>
+</Brands>
+<Channels>
+<UDP>Y<UDP>
+<WEB>Y</WEB>
+<APP>Y</APP>
+</Channels>
+</API>
